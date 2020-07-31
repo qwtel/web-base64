@@ -1,4 +1,9 @@
+
+__NOTE__: This is now part of the enhanced [`base64-encoding`](https://github.com/qwtel/base64-encoding) module.
+
+
 # Web Base64
+
 Slightly modernized version of [`base64-js`](https://github.com/beatgammit/base64-js). 
 
 Main difference is the option to generate URL-friendly Base64,
